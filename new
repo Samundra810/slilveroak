@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<title>SILVER OAK UNIVERSITY | It is a premier private university in India</title>
+	<style>
+		body{
+			margin: 0;
+		}
+		a:link{
+			text-decoration: none;
+		}
+		.easy-bar{
+			width: 100%;
+			background-color: #8d3131;
+		}
+		.easy-bar div ul li{
+			display: inline-block;
+			color: white;
+		}
+		.contact-section ul,.social-media ul{
+			padding-left: 15px;
+			padding-right: 10px;
+		}
+	</style>
+</head>
+<body>
+	<section>
+		<div class="easy-bar">
+			<div class="contact-section">
+				<ul>
+					<li>Beta Version&nbsp;&nbsp;&nbsp;</li>
+					<li>
+						For admission only Helpline:<a href="tel:+91-79-66046300">+91-79-66046300</a> &nbsp;
+						<a href="https://api.whatsapp.com/send?phone=919099063464&text=Hello this is the starting message">
+							<i class="fa fa-whatsapp"></i> +91-90990 63464
+						</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					</li>
+					<li style="animation: text 1s infinite;"><a href="https://sou.studentscenter.in/">STUDENT FACILITATION CENTER</a></li>
+				</ul>
+			</div>
+			<div class="social-media" align="right">
+				<ul>
+					<li>
+						<a href="https://www.facebook.com/SilverOakUni/">
+							<i class="fa fa-facebook social-media"></i>
+						</a>&nbsp;&nbsp;
+					</li>
+					<li>
+						<a href="https://www.instagram.com/silveroakuni/">
+							<i class="fa fa-instagram social-media"></i>
+						</a>&nbsp;&nbsp;
+					</li>
+					<li>
+						<a href="https://www.linkedin.com/school/silveroakuni/">
+							<i class="fa fa-linkedin social-media"></i>
+						</a>&nbsp;&nbsp;
+					</li>
+					<li>
+						<a href="https://www.youtube.com/silveroakuni">
+							<i class="fa fa-youtube social-media"></i>
+						</a>&nbsp;&nbsp;
+					</li>
+					<li>
+						<a href="https://twitter.com/silveroakuni">
+							<i class="fa fa-twitter social-media"></i>
+						</a>&nbsp;&nbsp;
+					</li>
+					<li>
+						<input type="text" placeholder="Search.." class="search">
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<div></div>
+			<div></div>
+		</div>
+	</section>
+</body>
+</html>
